@@ -1,0 +1,6 @@
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\bin\Debug\jtl_bankingLIB.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\bin\Debug\jtl_bankingLIB.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\obj\Debug\jtl_bankingLIB.csproj.AssemblyReference.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\obj\Debug\jtl_bankingLIB.csproj.CoreCompileInputs.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\obj\Debug\jtl_bankingLIB.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingLIB\jtl_bankingLIB\obj\Debug\jtl_bankingLIB.pdb

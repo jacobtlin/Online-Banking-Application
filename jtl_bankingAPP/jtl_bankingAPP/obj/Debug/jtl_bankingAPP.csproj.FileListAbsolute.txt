@@ -1,0 +1,11 @@
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.csproj.AssemblyReference.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.csproj.CoreCompileInputs.cache
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\bin\Debug\jtl_bankingAPP.exe.config
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\bin\Debug\jtl_bankingAPP.exe
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\bin\Debug\jtl_bankingAPP.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\bin\Debug\jtl_bankingLIB.dll
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\bin\Debug\jtl_bankingLIB.pdb
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.csproj.CopyComplete
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.exe
+C:\Users\Jacob T.L\Desktop\.NET Training\P0\jtl_bankingAPP\jtl_bankingAPP\obj\Debug\jtl_bankingAPP.pdb
